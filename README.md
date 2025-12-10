@@ -138,6 +138,10 @@ const result = await transform(code, {
   minify: true,
 });
 ```
+## why use swc ?
+<img width="2422" height="1148" alt="01640f542ee02ab92254a3f504e687e9" src="https://github.com/user-attachments/assets/d4646a60-78cd-4286-b9b0-085ba15d1c8b" />
+<img width="2354" height="1032" alt="502396b9846a6958e7299f16df74070f" src="https://github.com/user-attachments/assets/bd12f4aa-d0f5-4201-8a27-524597d72ffa" />
+
 
 ## reference
 
