@@ -1,0 +1,14 @@
+{
+  "name": "mika-swc-plugin",
+  "type": "module",
+  "author": "daryl",
+  "description": "use wasm module to compile jsx or ts files",
+  "version": "1.0.0",
+  "files": [
+    "wasm_bg.wasm",
+    "wasm.js",
+    "wasm.d.ts"
+  ],
+  "main": "wasm.js",
+  "types": "wasm.d.ts"
+}
